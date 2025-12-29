@@ -1,7 +1,7 @@
 {
-  "name": "@bare-ts/lib",
-  "version": "0.6.0",
-  "description": "TypeScript library for BARE, a compact and simple binary-serialization format",
+  "name": "@rivetkit/bare-ts",
+  "version": "0.6.1",
+  "description": "TypeScript library for BARE, a compact and simple binary-serialization format (Rivet fork with ULEB128 fix)",
   "keywords": [
     "bare",
     "binary format",
@@ -15,10 +15,10 @@
   "homepage": "https://baremessages.org",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bare-ts/lib.git"
+    "url": "git+https://github.com/rivet-dev/lib.git"
   },
   "bugs": {
-    "url": "https://github.com/bare-ts/lib/issues"
+    "url": "https://github.com/rivet-dev/lib/issues"
   },
   "engines": {
     "node": "^14.18.0 || >=16.0.0"
